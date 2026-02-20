@@ -5,9 +5,7 @@ title: Home
 
 # Hello 👋
 
-I’m Mele.
-
-This site is a simple landing page for links and updates.
+I’m Alex.
 
 ## Links
 [GitHub](https://github.com/Mele0)
