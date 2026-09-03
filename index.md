@@ -8,9 +8,9 @@ title: Home
 I'm currently a PhD researcher in Artificial Intelligence and Machine Learning in Biomedicine at Imperial College London. My research focuses on deep learning, continuous-time modelling, uncertainty quantification, and machine learning for longitudinal biomedical data. Previously, I was a Machine Learning Researcher at Stanford University, where I developed and evaluated machine learning models on large-scale biomedical cohorts.
 
 ## Links
-[GitHub](https://github.com/Mele0)
-[Email](mailto:amr24@ic.ac.uk)
-[LinkedIn](https://www.linkedin.com/in/alex-melendez-ramos/)
+[GitHub](https://github.com/Mele0) | 
+[Email](mailto:amr24@ic.ac.uk) | 
+[LinkedIn](https://www.linkedin.com/in/alex-melendez-ramos/) | 
 [Google Scholar](https://scholar.google.com/citations?user=sLOiu8IAAAAJ&hl=en)
 
 ## 📚 Research
