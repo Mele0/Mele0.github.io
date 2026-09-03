@@ -41,6 +41,8 @@ I've worked on several machine learning and biomedical data science projects fea
 
 - [Phenotype Prediction](https://github.com/Mele0/Phenotype_Prediction) - Machine learning pipeline for high-dimensional phenotype prediction using UK Biobank data. Includes XGBoost, LightGBM, CatBoost, feature selection, and SHAP-based model interpretation.
 
+- [Polybitrage](https://github.com/Mele0/Polybitrage) – Built a low-latency arbitrage engine for Polymarket and Kalshi, targeting cross-market pricing inefficiencies. Implemented N-leg arbitrage detection, depth-aware position sizing, and latency-sensitive execution with fill-or-kill orders and risk limits. Achieved sub-100 µs scan latency using Python, Rust, and Cython, with end-to-end latency monitoring via Prometheus/Grafana.
+
 
 <div style="height: 50px;"></div>
 
