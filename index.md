@@ -13,7 +13,7 @@ I'm currently a PhD student in Artificial Intelligence and Machine Learning in B
 
 I've worked on several machine learning and biomedical research projects, including:
 
-- **SynLV: A Benchmark for Decision-Time Incompleteness in Longitudinal Survival Prediction** — *NeurIPS Datasets & Benchmarks*, under review (2026). A synthetic benchmark for evaluating longitudinal survival models when information available at decision time is incomplete.
+- SynLV: A Benchmark for Decision-Time Incompleteness in Longitudinal Survival Prediction — *NeurIPS Datasets & Benchmarks*, under review (2026). A synthetic benchmark for evaluating longitudinal survival models when information available at decision time is incomplete.
 
 - [EPC Mirage: Grid Decarbonisation can Overstate Retrofit Progress in Carbon-weighted Building Energy Ratings](https://doi.org/10.2139/ssrn.7210198) — *Nature Energy*, under review (2026). Investigates how carbon-weighted building energy ratings can create apparent efficiency improvements without corresponding physical retrofit. 
 
