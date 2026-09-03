@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-
+<img src="https://github.com/Mele0.png" width="170" style="border-radius:50%;" alt="Alex Melendez-Ramos">
 # Hi there, I'm Alex 👋
 
 I'm currently a PhD researcher in Artificial Intelligence and Machine Learning in Biomedicine at Imperial College London. My research focuses on deep learning, continuous-time modelling, uncertainty quantification, and machine learning for longitudinal biomedical data. Previously, I was a Machine Learning Researcher at Stanford University, where I developed and evaluated machine learning models on large-scale biomedical cohorts.
