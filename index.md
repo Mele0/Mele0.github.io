@@ -62,7 +62,7 @@ I've worked on several machine learning and biomedical data science projects fea
     <img
       src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=64"
       alt="LinkedIn"
-      style="width:28px !important; height:28px !important; max-width:28px !important;">
+      style="width:28px !important; height:28px !important; max-width:28px !important; display: block;">
   </a>
 
   <a href="https://scholar.google.com/citations?user=sLOiu8IAAAAJ&hl=en" target="_blank" title="Google Scholar">
