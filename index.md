@@ -21,7 +21,7 @@ I've worked on several machine learning and biomedical research projects, includ
 
 - [Assessing Tree-Based Phenotype Prediction on the UK Biobank](https://doi.org/10.1109/BIBM58861.2023.10385960) — *IEEE BIBM*, 2023. Evaluation of tree-based machine learning approaches for high-dimensional phenotype prediction.
 
-<br>
+<div style="height: 30px;"></div>
 
 ## 🤗 HuggingFace Projects
 
@@ -29,7 +29,7 @@ I've developed a dataset for stress-testing robustness on longitudinal and popul
 
 - [SynLV](https://huggingface.co/datasets/Mele0/SynLV) — A synthetic benchmark for studying decision-time incompleteness in longitudinal survival prediction, with controllable longitudinal dynamics, observation processes, and missingness mechanisms.
 
-<br>
+<div style="height: 30px;"></div>
 
 ## 💻 GitHub Projects
 
@@ -42,7 +42,7 @@ I've worked on several machine learning and biomedical data science projects fea
 - [Phenotype Prediction](https://github.com/Mele0/Phenotype_Prediction) - Machine learning pipeline for high-dimensional phenotype prediction using UK Biobank data. Includes XGBoost, LightGBM, CatBoost, feature selection, and SHAP-based model interpretation.
 
 
-<br>
+<div style="height: 50px;"></div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 18px; margin: 20px 0 30px 0;">
 
