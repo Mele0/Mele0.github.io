@@ -5,7 +5,7 @@ title: Home
 
 # Hi there, I'm Alex 👋
 
-I'm currently a PhD researcher in Artificial Intelligence and Machine Learning in Biomedicine at Imperial College London. My research focuses on deep learning, continuous-time modelling, uncertainty quantification, and machine learning for longitudinal biomedical data. Previously, I was a Machine Learning Researcher at Stanford University, where I developed and evaluated machine learning models on large-scale biomedical cohorts.
+I'm currently a PhD student in Artificial Intelligence and Machine Learning in Biomedicine at Imperial College London. My research focuses on deep learning, continuous-time modelling, uncertainty quantification, and machine learning for longitudinal biomedical data. Previously, I was a Machine Learning Researcher at Stanford University, where I developed and evaluated machine learning models on large-scale biomedical cohorts.
 
 ## Links
 [GitHub](https://github.com/Mele0) | 
