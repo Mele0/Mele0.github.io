@@ -8,10 +8,21 @@ title: Home
 I'm currently a PhD student in Artificial Intelligence and Machine Learning in Biomedicine at Imperial College London. My research focuses on deep learning, continuous-time modelling, uncertainty quantification, and machine learning for longitudinal biomedical data. Previously, I was a Machine Learning Researcher at Stanford University, where I developed and evaluated machine learning models on large-scale biomedical cohorts.
 
 ## Links
-[GitHub](https://github.com/Mele0) | 
-[Email](mailto:amr24@ic.ac.uk) | 
-[LinkedIn](https://www.linkedin.com/in/alex-melendez-ramos/) | 
-[Google Scholar](https://scholar.google.com/citations?user=sLOiu8IAAAAJ&hl=en)
+
+<div class="social-links" style="text-align: center; margin: 20px 0 30px 0;">
+  <a href="https://github.com/Mele0" target="_blank" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub">
+  </a>
+  <a href="mailto:amr24@ic.ac.uk" title="Email">
+    <img src="https://api.iconify.design/mdi/email.svg" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/alex-melendez-ramos/" target="_blank" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn">
+  </a>
+  <a href="https://scholar.google.com/citations?user=sLOiu8IAAAAJ&hl=en" target="_blank" title="Google Scholar">
+    <img src="https://cdn.simpleicons.org/googlescholar/4285F4" alt="Google Scholar">
+  </a>
+</div>
 
 
 ## 📚 Research
@@ -43,9 +54,3 @@ I've worked on several machine learning and biomedical data science projects fea
 - [CKD Patient Profiling](https://github.com/Mele0/CKD-Patient-Profiling) - Proteomics-based patient profiling pipeline for chronic kidney disease. Uses UMAP and Gaussian Mixture Models for clustering, Random Forest and LASSO for feature selection, and survival analysis for clinical outcome modelling.
 
 - [Phenotype Prediction](https://github.com/Mele0/Phenotype_Prediction) - Machine learning pipeline for high-dimensional phenotype prediction using UK Biobank data. Includes XGBoost, LightGBM, CatBoost, feature selection, and SHAP-based model interpretation.
-
-
-## 📫 How to Reach Me
-
-- [Email](alex.ramos24@imperial.ac.uk)
-- [LinkedIn](http://linkedin.com/in/alex-melendez-ramos)
