@@ -9,19 +9,36 @@ I'm currently a PhD student in Artificial Intelligence and Machine Learning in B
 
 ## Links
 
-<div class="social-links" style="text-align: center; margin: 20px 0 30px 0;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 18px; margin: 20px 0 30px 0;">
+
   <a href="https://github.com/Mele0" target="_blank" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub">
+    <img
+      src="https://cdn.simpleicons.org/github"
+      alt="GitHub"
+      style="width: 28px !important; height: 28px !important; max-width: 28px !important; display: block;">
   </a>
+
   <a href="mailto:amr24@ic.ac.uk" title="Email">
-    <img src="https://api.iconify.design/mdi/email.svg" alt="Email">
+    <img
+      src="https://cdn.simpleicons.org/gmail"
+      alt="Email"
+      style="width: 28px !important; height: 28px !important; max-width: 28px !important; display: block;">
   </a>
+
   <a href="https://www.linkedin.com/in/alex-melendez-ramos/" target="_blank" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn">
+    <img
+      src="https://cdn.simpleicons.org/linkedin"
+      alt="LinkedIn"
+      style="width: 28px !important; height: 28px !important; max-width: 28px !important; display: block;">
   </a>
+
   <a href="https://scholar.google.com/citations?user=sLOiu8IAAAAJ&hl=en" target="_blank" title="Google Scholar">
-    <img src="https://cdn.simpleicons.org/googlescholar/4285F4" alt="Google Scholar">
+    <img
+      src="https://cdn.simpleicons.org/googlescholar"
+      alt="Google Scholar"
+      style="width: 28px !important; height: 28px !important; max-width: 28px !important; display: block;">
   </a>
+
 </div>
 
 
