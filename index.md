@@ -13,6 +13,7 @@ I'm currently a PhD researcher in Artificial Intelligence and Machine Learning i
 [LinkedIn](https://www.linkedin.com/in/alex-melendez-ramos/) | 
 [Google Scholar](https://scholar.google.com/citations?user=sLOiu8IAAAAJ&hl=en)
 
+
 ## 📚 Research
 
 I've worked on several machine learning and biomedical research projects, including:
